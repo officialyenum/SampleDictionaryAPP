@@ -6,5 +6,5 @@ data.json file contains Keys{English Words} and Values{English Words Meaning}
 
 This App was designed using python 
 --it allows you enter a word, 
---takes the word and check if it exists in the "data.json" file, 
+--takes the word and checks if it exists in the "data.json" file, 
 --if it does it returns the value of the word which is the meaning
